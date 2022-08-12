@@ -1,6 +1,7 @@
 .about {
-    margin: 100px;
-    height: max-content;
+    height: 500px;
+    background-image: linear-gradient(to bottom, white, white, var(--color-primary));
+    transform: translateY(150px);
 }
 
 .about h2 {
