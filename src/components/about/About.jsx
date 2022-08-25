@@ -11,9 +11,9 @@ const About = () => {
             <h4>I am a sophmore at Cornell University studying Computer Science. 
                 <br/>I am a fullstack mobile and web developer looking to land an internship for the summer of 2023.</h4>
             <div className="about-links">
-                <a href="https://www.linkedin.com/in/lily-pham-7b8593173/" className="about-link" target='_blank'><FaLinkedin className="about-icon"/> LinkedIn</a>
-                <a href="https://github.com/burninglilies" className="about-"><FaGithub className="about-icon" target='_blank'/> Github</a>
-                <a href="https://lilypham.design" className="about-"><MdPictureAsPdf className="about-icon" target='_blank'/> Resume</a>
+                <a href="https://www.linkedin.com/in/lily-pham-7b8593173/" className="about-link" target='_blank' rel="noreferrer" ><FaLinkedin className="about-icon"/> LinkedIn</a>
+                <a href="https://github.com/burninglilies" className="about-"><FaGithub className="about-icon" target='_blank' rel="noreferrer" /> Github</a>
+                <a href="https://lilypham.design" className="about-"><MdPictureAsPdf className="about-icon" target='_blank' rel="noreferrer" /> Resume</a>
             </div>
         </section>
     )
