@@ -52,3 +52,21 @@
     margin-right: auto;
     border-radius: 1rem;
 }
+
+.tools-list {
+    margin: 20px 0px;
+}
+
+
+.tools-list li{
+    font-size: 12px;
+    color: var(--color-secondary-variant);
+    display: inline;
+    margin: 10px;
+    padding: 0.5rem 0.5rem;
+    border-radius: 0.4rem;
+    border: 1px solid var(--color-secondary-variant);
+    background-color: var(--color-primary);
+
+    
+}
