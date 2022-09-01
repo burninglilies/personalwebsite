@@ -2,7 +2,7 @@ import React from "react";
 import './projects.css';
 import laptop from '../../images/laptop.png'
 import freelancemarketplace from '../../images/freelance_marketplace-sc.png'
-import pathfindervisualizer from '../../images/pathfinder_visualizer-sc.png'
+//import pathfindervisualizer from '../../images/pathfinder_visualizer-sc.png'
 import songmatch from '../../images/songmatch-sc.png'
 
 const About = () => {
